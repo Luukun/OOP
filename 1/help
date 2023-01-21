@@ -1,0 +1,2 @@
+g++ main.cpp Matrix.cpp -o main - компиляция
+./main - запуск
